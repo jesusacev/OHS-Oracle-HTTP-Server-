@@ -2,7 +2,7 @@ Creación de un componente OHS
 ========
 
 - Requisitos:
-1. Tener instalado los binarios de infraestructure y OHS.
+1. Tener instalado los binarios de infraestructure y OHS en la misma ruta.
 2. Verificar que el entorno de las ventanas X esté operativo.
 
 
